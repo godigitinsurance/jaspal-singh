@@ -1,13 +1,13 @@
-$("#customerName").text("Gurmail Singh");
-$("#policyNumber").text("SC92072820");
-$("#startDate").text("08-Feb-2020");
-$("#endDate").text("07-Feb-2021");
+$("#customerName").text("Jaspal Singh");
+$("#policyNumber").text("CC92030720");
+$("#startDate").text("08-Mar-2020");
+$("#endDate").text("07-Mar-2021");
 
 
 $("#type").text("Two Wheeler");
-$("#registrationNumber").text("PB08DD1375");
-$("#make").text("TVS MOTORS");
-$("#model").text("JUPITER");
-$("#vehicalSubType").text("DISC BRAKE");
-$("#engineNo").text("BG4KF2067966");
-$("#chassis").text("MD626BG11F3K60351");
+$("#registrationNumber").text("PB08CE5509");
+$("#make").text("BAJAJ");
+$("#model").text("DISCOVER");
+$("#vehicalSubType").text("100/4G");
+$("#engineNo").text("JBZPCD47000");
+$("#chassis").text("MD2A14AZ4CPD89546");
